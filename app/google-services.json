@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441736128049",
+    "project_id": "conceptcube-f2590",
+    "storage_bucket": "conceptcube-f2590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441736128049:android:7182e21fe7e1f8c7961710",
+        "android_client_info": {
+          "package_name": "com.example.conceptcube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441736128049-pil1ucff556csudkna47t60mntqvg4ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwmXMX8bfdPwHK-VyZkeYpXNkT3MNWhI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441736128049-pil1ucff556csudkna47t60mntqvg4ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

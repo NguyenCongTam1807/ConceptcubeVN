@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conceptcube</string>
+    <string name="id_prompt">ID</string>
+    <string name="password_prompt">Password</string>
+    <string name="password_prompt2">Re-enter password</string>
+    <string name="email_prompt">Email</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="check_id">Check ID</string>
+    <string name="birthday_prompt">Choose your birthday</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
